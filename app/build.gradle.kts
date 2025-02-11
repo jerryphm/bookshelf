@@ -63,4 +63,11 @@ dependencies {
 
     // Coroutine
     implementation(libs.coroutine)
+
+    // Viewmodel
+    implementation(libs.viewmodel)
+
+    // Coil
+    implementation(libs.coil.compose)
+    implementation(libs.coil.network)
 }
